@@ -41,40 +41,40 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBzL1zWe-yEt_kA5O1K1DRMyFeWD5pTG-0',
-    appId: '1:225586733848:web:068bd7ed809f30425e746d',
-    messagingSenderId: '225586733848',
-    projectId: 'teste-horas-v3',
-    authDomain: 'teste-horas-v3.firebaseapp.com',
-    storageBucket: 'teste-horas-v3.firebasestorage.app',
-    measurementId: 'G-WJXM4SJWCL',
+    apiKey: 'AIzaSyBoj23WQIUFGhp_LOTg1YwFmF748LtQPzk',
+    appId: '1:231590330906:web:f34a4c8e449c51d10e87a3',
+    messagingSenderId: '231590330906',
+    projectId: 'horas-v3-ae2e9',
+    authDomain: 'horas-v3-ae2e9.firebaseapp.com',
+    storageBucket: 'horas-v3-ae2e9.firebasestorage.app',
+    measurementId: 'G-8VB0JQC7PR',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB2cSLgPqBxCpPrSWko5CLGIh82sNndnc8',
-    appId: '1:225586733848:android:16ed1c3133245f405e746d',
-    messagingSenderId: '225586733848',
-    projectId: 'teste-horas-v3',
-    storageBucket: 'teste-horas-v3.firebasestorage.app',
+    apiKey: 'AIzaSyAZc0c_b8PsVPi1lhJmR63weGW_Hkzm01Q',
+    appId: '1:231590330906:android:3ca65bf05e5a8ac20e87a3',
+    messagingSenderId: '231590330906',
+    projectId: 'horas-v3-ae2e9',
+    storageBucket: 'horas-v3-ae2e9.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBOQ9b6D3_XuLzHS8Ben-Td6Z6HnSK3uGI',
-    appId: '1:225586733848:ios:57376f59b2afbd7b5e746d',
-    messagingSenderId: '225586733848',
-    projectId: 'teste-horas-v3',
-    storageBucket: 'teste-horas-v3.firebasestorage.app',
+    apiKey: 'AIzaSyDIGJD9SvG8qANwEjgDvFMJW3sObtLsJX4',
+    appId: '1:231590330906:ios:d6de0e75ff16af090e87a3',
+    messagingSenderId: '231590330906',
+    projectId: 'horas-v3-ae2e9',
+    storageBucket: 'horas-v3-ae2e9.firebasestorage.app',
     iosBundleId: 'com.example.testeFirebase',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBzL1zWe-yEt_kA5O1K1DRMyFeWD5pTG-0',
-    appId: '1:225586733848:web:cd523797a89c96555e746d',
-    messagingSenderId: '225586733848',
-    projectId: 'teste-horas-v3',
-    authDomain: 'teste-horas-v3.firebaseapp.com',
-    storageBucket: 'teste-horas-v3.firebasestorage.app',
-    measurementId: 'G-31Z7ZD4988',
+    apiKey: 'AIzaSyBoj23WQIUFGhp_LOTg1YwFmF748LtQPzk',
+    appId: '1:231590330906:web:801b2bb5711e62e20e87a3',
+    messagingSenderId: '231590330906',
+    projectId: 'horas-v3-ae2e9',
+    authDomain: 'horas-v3-ae2e9.firebaseapp.com',
+    storageBucket: 'horas-v3-ae2e9.firebasestorage.app',
+    measurementId: 'G-7766PSMGY7',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(

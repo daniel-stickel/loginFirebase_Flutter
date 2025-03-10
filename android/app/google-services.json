@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "225586733848",
-    "project_id": "teste-horas-v3",
-    "storage_bucket": "teste-horas-v3.firebasestorage.app"
+    "project_number": "231590330906",
+    "project_id": "horas-v3-ae2e9",
+    "storage_bucket": "horas-v3-ae2e9.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:225586733848:android:16ed1c3133245f405e746d",
+        "mobilesdk_app_id": "1:231590330906:android:3ca65bf05e5a8ac20e87a3",
         "android_client_info": {
           "package_name": "com.example.teste_firebase"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyB2cSLgPqBxCpPrSWko5CLGIh82sNndnc8"
+          "current_key": "AIzaSyAZc0c_b8PsVPi1lhJmR63weGW_Hkzm01Q"
         }
       ],
       "services": {
