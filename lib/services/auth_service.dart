@@ -42,4 +42,19 @@ class AuthService {
 
     return null;
   }
+
+  Future<String?> redefinicaoSenha({required String email}) async {
+    try {
+      await _firebaseAuth.sendPasswordResetEmail(email: email);
+    }on FirebaseAuthException catch (e) {
+      switch (e.code) {
+        case 'user-not-found':
+          return 'Usuário não encontrado';
+      }
+
+      return e.code;
+    }
+
+    return null;
+  }
 }
