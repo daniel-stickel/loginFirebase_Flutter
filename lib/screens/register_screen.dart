@@ -43,11 +43,11 @@ class RegisterScreen extends StatelessWidget {
                       controller: _senhaController,
                       decoration: InputDecoration(hintText: "Senha"),
                     ),
-                    SizedBox(height: 16,),
+                    SizedBox(height: 16),
                     TextField(
                       obscureText: true,
                       controller: _confirmaSenhaController,
-                      decoration: InputDecoration(hintText: "Conafirme sua senha "),
+                      decoration: InputDecoration(hintText: "Confirme sua senha "),
                     ),
                     SizedBox(height: 16),
                     ElevatedButton(onPressed: () {}, child: Text("Cadastrar")
