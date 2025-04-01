@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "231590330906",
-    "project_id": "horas-v3-ae2e9",
-    "storage_bucket": "horas-v3-ae2e9.firebasestorage.app"
+    "project_number": "614326133486",
+    "project_id": "testehoramarco",
+    "storage_bucket": "testehoramarco.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:231590330906:android:3ca65bf05e5a8ac20e87a3",
+        "mobilesdk_app_id": "1:614326133486:android:78502c04245391655c89ff",
         "android_client_info": {
           "package_name": "com.example.teste_firebase"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAZc0c_b8PsVPi1lhJmR63weGW_Hkzm01Q"
+          "current_key": "AIzaSyBC3Kdn5RFBNfjsPgZPORvzZvLUMX2ouDY"
         }
       ],
       "services": {
